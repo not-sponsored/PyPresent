@@ -1,0 +1,13 @@
+Title: Awesome Presentation
+Subtitle: by XYZ
+
+[slide one title]
+.bullet one
+.two
+
+.slide two bullet
+.some fact
+
+[title of slide three]
+# credit https://unsplash.com/photos/UtcxOC0cGzQ
+picture: PyPresent/sample/test.jpg
